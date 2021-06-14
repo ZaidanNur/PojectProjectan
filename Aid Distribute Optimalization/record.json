@@ -1,0 +1,33 @@
+[
+    {
+        "no": 1,
+        "tanggal": "08 June 2021",
+        "asal": "jember",
+        "tujuan": [
+            
+                "malang",
+                "bwi"
+            
+        ],
+        "maks value": 85000,
+        "barang dipak": [
+            "Susu",
+            "mie"
+        ],
+        "ongkos minimal": 11280.0,
+        "jalur termurah": [
+            [
+                "jember",
+                "malang",
+                "bwi",
+                "jember"
+            ],
+            [
+                "jember",
+                "bwi",
+                "malang",
+                "jember"
+            ]
+        ]
+    }
+]
