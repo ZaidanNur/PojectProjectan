@@ -1,0 +1,27 @@
+[
+    {
+        "username": "202410101080",
+        "password": "123asd",
+        "status": "user"
+    },
+    {
+        "username": "admin",
+        "password": "admin",
+        "status": "admin"
+    },
+    {
+        "username": "202410101128",
+        "password": "aliftacantik",
+        "status": "user"
+    },
+    {
+        "username": "202410101060",
+        "password": "akuganteng",
+        "status": "user"
+    },
+    {
+        "username": "202410101001",
+        "password": "coba123",
+        "status": "user"
+    }
+]

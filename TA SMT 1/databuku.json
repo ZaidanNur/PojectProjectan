@@ -1,0 +1,94 @@
+[
+    {
+        "nama buku": "Pendidikan Agama dan Budi Pekerti Kelas IV",
+        "tahun terbit": "2016",
+        "penerbit": "Kementrian Pendidikan dan Kebudayaan",
+        "kode buku": [
+            "001001-U",
+            "001002-U",
+            "001003-U",
+            "001004-U",
+            "001005-U"
+        ],
+        "buku dipinjam": [
+            "001002-U"
+        ]
+    },
+    {
+        "nama buku": "Hujan",
+        "tahun terbit": "2011",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "002001-N",
+            "002002-N"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "Naruto Vol 90",
+        "tahun terbit": "2017",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "003001-K"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "One Piece Vol 88",
+        "tahun terbit": "2016",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "004001-K"
+        ],
+        "buku dipinjam": [
+            "004001-K"
+        ]
+    },
+    {
+        "nama buku": "Daun Yang Jatuh",
+        "tahun terbit": "2011",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "005001-N",
+            "005002-N"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "Detective Conan vol 90",
+        "tahun terbit": "2009",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "006001-K"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "Doraemon vol 33",
+        "tahun terbit": "2012",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "007001-K",
+            "007002-K"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "Senja",
+        "tahun terbit": "2016",
+        "penerbit": "Gramedia",
+        "kode buku": [
+            "008001-N"
+        ],
+        "buku dipinjam": []
+    },
+    {
+        "nama buku": "Buku Kimia kelas 12",
+        "tahun terbit": "2018",
+        "penerbit": "Airlangga",
+        "kode buku": [
+            "009002-U"
+        ],
+        "buku dipinjam": []
+    }
+]

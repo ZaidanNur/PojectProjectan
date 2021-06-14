@@ -1,0 +1,31 @@
+[
+    {
+        "NIM": "202410101080",
+        "nama mahasiswa": "Zaidan Nur Muhammad Daffa",
+        "data buku": [
+            {
+                "nama buku": "Pendidikan Agama dan Budi Pekerti Kelas IV",
+                "tahun terbit": "2016",
+                "penerbit": "Kementrian Pendidikan dan Kebudayaan",
+                "kode buku": "001002-U",
+                "tanggal pinjam": "30-12-2020",
+                "tanggal kembali": "6-1-2020"
+            }
+        ]
+    },
+    {
+        "NIM": "202410103031",
+        "nama mahasiswa": "Riya",
+        "data buku": []
+    },
+    {
+        "NIM": "202410101060",
+        "nama mahasiswa": "Sebastian Gavin",
+        "data buku": []
+    },
+    {
+        "NIM": "202410101001",
+        "nama mahasiswa": "Aisyah Aulia",
+        "data buku": []
+    }
+]
