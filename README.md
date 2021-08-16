@@ -1,2 +1,2 @@
-# PojectProjectan
-Random idea form me XD
+# PojectProject-an
+This repo contain my class submission
